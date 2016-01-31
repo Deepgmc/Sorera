@@ -1,0 +1,40 @@
+*{outline:none !important;}
+.block{
+    min-height:200px;
+    border-radius: 10px;
+    border:1px solid green;
+    margin-bottom:10px;
+    margin-top: 10px;
+    background: lightblue;
+}
+
+/*reviews*/
+.captIcon{
+    margin:0 5px 0 5px;
+    color: #4646ff;
+}
+.revCapt{
+    padding: 15px;
+    border-radius: 30px;
+    border-left:15px solid #758ee6;
+    border-right:15px solid #758ee6;
+    cursor:pointer;
+    margin-bottom:5px;
+}
+.revCapt:hover{
+    background: #9ba8e6;
+}
+.revContent{
+    display:none;
+    padding:15px 0 25px 0;
+}
+.getRevComId{
+    font-size:20px;
+    color:green;
+    cursor:pointer;
+}
+/* add company */
+.text-primary{
+    margin:10px 0 0 0;
+    padding:0px;
+}

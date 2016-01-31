@@ -1,0 +1,52 @@
+.rev-cnt {
+    background: white;
+    padding: 5px;
+}
+
+.rev-capt div {
+    font-family: Cambria;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    white-space: normal;
+    margin: auto !important;
+    vertical-align: middle;
+    color: #373635;
+    line-height: 1.5em;
+    background: #f0ebff;
+}
+.rev-capt div h3{
+    margin:10px;
+}
+.omh{
+    padding-top:10px;
+}
+.rev-capt div h3 .orMark{
+    float:left;
+    margin-top:5px;
+}
+.rev-capt {
+    margin-top:1.5em;
+    border: 1px solid #EEE;
+    background: white;
+    color: #727482;
+    font-size:11px;
+    padding:5px;
+
+}
+.rev-date div img{
+    margin: 0 0 0 2px;
+}
+.rev-txt div {
+    text-indent: 2.5em;
+    text-align: justify;
+}
+hr{
+    border-top:1px solid #eee;
+}
+p{margin-top:0 !important
+}
+.revLL{
+    width:100%;
+    padding:3px;
+}
