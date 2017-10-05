@@ -11,7 +11,7 @@ public function index($script)
         $errLogin = false;
         $pwd = trim($_POST['pwd']);
         if(strlen($pwd) != 7) {$errLogin = true;}
-        if($pwd == 1848918){
+        if($pwd == 12345678){
             $isRoot = $this->session->set_userdata('AT', 'admin');
         } else {
             $errLogin = true;
